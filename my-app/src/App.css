@@ -1,0 +1,24 @@
+.App{
+    padding: 40px;
+    background-color: yellow;
+}
+.pok{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+    flex-wrap: wrap;
+    height: 70px;
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 0px 1px rgba(0, 0, 0, 0.2);
+    padding: 0 10px;
+}
+.poks{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+img{
+    width: 50px;
+}
